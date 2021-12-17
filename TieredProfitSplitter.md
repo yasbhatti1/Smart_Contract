@@ -91,11 +91,13 @@ Make sure to have the correct compiler version selected, and leave other options
 
 click "Deploy and run transaction", third option from top - left side of the Remix page.
 
-- Environment 
+#### Environment: 
+
 select "Injected Web3"
 It should populate the correct account: Value should be 0, and select "Ether" from dropdown menu
 
-- Deploy
+#### Deploy:
+
 select the dropdown next to deploy button, and add three employee accounts. I used a separate account as HR, and used the other three accounts (from ganache) for employees. 
 click "transact"
 
