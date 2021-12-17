@@ -94,7 +94,11 @@ click "Deploy and run transaction", third option from top - left side of the Rem
 #### Environment: 
 
 select "Injected Web3"
-It should populate the correct account: Value should be 0, and select "Ether" from dropdown menu
+It should populate the correct account: 
+
+#### Value 
+
+should be 0, and select "Ether" from dropdown menu
 
 #### Deploy:
 
@@ -109,8 +113,8 @@ Hit Confirm
 
 ### Step 5
 
-On Remix page, at the very bottom of left pane under deployed contracts, please click the dropdown next to "AssociateProfitSplitter at .......". You will see "deposit", and "balance" buttons there. 
-With your accounts selected, please add desired value in "VALUE"to fund your contract.
+On Remix page, at the very bottom of left pane under deployed contracts, please click the dropdown next to "TieredProfitSplitter.sol at .......". You will see "deposit", and "balance" buttons there. 
+With your accounts selected, please add desired value in "VALUE" (scroll up to "Value" option) to fund your contract.
 
 Click "deposit" button
 
