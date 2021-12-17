@@ -21,8 +21,6 @@ Note: To run this program, you will need to download Ganache and create your acc
 With Ganache open and running, please open METAMASK (from your chrome browser) and select Localhost 8545. 
 Navigate to the [Remix IDE](https://remix.ethereum.org) and create a new contract called `AssociateProfitSplitter.sol`.
 
-Here is the initial balance in 
-
 ### Step 2
 
 Copy and Paste the following code:
