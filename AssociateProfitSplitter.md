@@ -94,7 +94,6 @@ It will/should open MetaMask. (this is first deployment without any value added 
 
 Hit Confirm
 
-![PIC4](Images/pic4.png)
 
 ### Step 5
 
