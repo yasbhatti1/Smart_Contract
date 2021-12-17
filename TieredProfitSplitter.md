@@ -113,7 +113,7 @@ Hit Confirm
 
 ### Step 5
 
-On Remix page, at the very bottom of left pane under deployed contracts, please click the dropdown next to "TieredProfitSplitter.sol at .......". You will see "deposit", and "balance" buttons there. 
+On Remix page, at the very bottom of left pane under deployed contracts, please click the dropdown next to "TieredProfitSplitter at .......". You will see "deposit", and "balance" buttons there. 
 With your accounts selected, please add desired value in "VALUE" (scroll up to "Value" option) to fund your contract.
 
 Click "deposit" button
