@@ -110,6 +110,7 @@ It will/should open MetaMask. (this is first deployment without any value added 
 Hit Confirm
 
 ![PIC13](Images/pic13.png)
+![PIC14](Images/pic14.png)
 
 ### Step 5
 
@@ -123,7 +124,7 @@ This will open MetaMask. You should see the contract amount there...
 Hit Confirm
 
 
-![PIC14](Images/pic14.png)
+
 ![PIC15](Images/pic15.png)
 ![PIC16](Images/pic16.png)
 
